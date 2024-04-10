@@ -1,4 +1,3 @@
-- Compilador: MinGW
-- Versión del compilador: 0.6.2
+- Compilador: gcc
+- Versión del compilador: 6.3.0
 - Versión C: C11
-
